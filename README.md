@@ -1,6 +1,6 @@
 # Conzex Development Studio (CDS) 🚀
 
-![CDS Logo](https://github.com/conzex/cds/raw/main/assets/cds-logo.png)
+![CDS Logo](https://cdn.conzex.com/uploads/LOGO-SVG/cz-light.svg)
 
 **Conzex Development Studio (CDS)** is a powerful, trackable, GUI-driven PowerShell-based provisioning tool that automates the installation of a complete Windows development environment in one go.
 
@@ -50,4 +50,4 @@
 ```powershell
 git clone https://github.com/conzex/cds.git
 cd cds
-.\dev-env-setup.ps1
+.\setup.ps1
